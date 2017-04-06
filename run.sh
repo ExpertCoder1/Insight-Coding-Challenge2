@@ -2,9 +2,9 @@
 
 # one example of run.sh script for implementing the features using python
 # the contents of this script could be replaced with similar files
-from any major language
+#from any major language
 
 # I'll execute my programs, with the input directory log_input and
-output the files in the directory log_output
+#output the files in the directory log_output
 javac src/process_log.java
 java -cp src process_log
